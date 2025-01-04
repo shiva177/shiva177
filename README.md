@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **shivam.kr1729@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oFBDnu9x8k-evMsG48B08Ils_Kbs819S/view?usp=sharing](https://drive.google.com/file/d/1oFBDnu9x8k-evMsG48B08Ils_Kbs819S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
