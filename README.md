@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python+FastAPI Based Project**
 
-- 🌱 I’m currently learning **Python,FastAPI**
+- 🌱 I’m currently learning **Java,Springboot,Python,FastAPI**
 
 - 📫 How to reach me **shivam.kr1729@gmail.com**
 
