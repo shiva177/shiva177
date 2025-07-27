@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva177&label=Profile%20views&color=0e75b6&style=flat" alt="shiva177" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning,LLM,Python+FastAPI Based Project**
+- 🔭 I’m currently working on **Rust based project,Machine Learning,LLM,Python+FastAPI Based Project**
 
 - 🌱 I’m currently learning **Java,Springboot,Python,FastAPI**
 
